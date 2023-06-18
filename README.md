@@ -6,3 +6,6 @@ The dataset was released by Aspiring Minds from the Aspiring Mind Employment Out
 
 ## Objective :-
 To Explore and mine the inference from the dataset using salary as the target variable.
+
+## Link to DataSet :-
+https://drive.google.com/file/d/1mV_ifvzzrlPWgdSzrwW5ZK-aF3S9tydZ/view
